@@ -1,0 +1,18 @@
+int readNumbers (FILE, *fr, char pole [], int s) {
+	char s;
+	if (fr == NULL){
+	printf("Sprava nie je nacitana\n");	
+	}
+
+	while ( s >= 65 || p <= 90 ) 
+	{
+		count++
+	}
+	printf("%c" &p);
+	
+	while ( s >= 97 || p <= 122);
+	printf("%c" &p)
+	{
+		return 0;
+	}
+}
